@@ -41,7 +41,9 @@ How you expose all this is up to you. A CLI is fine. A tiny web page is welcome 
 **Strong preference: TypeScript / JavaScript** (Node, Bun, Deno — whichever you prefer).
 That's our production stack and any code you ship here will be easiest to discuss in the walkthrough if it's in the same language. Other stacks accepted, but if you go that route, hold the bar higher on readability.
 
-For LLM access, use any frontier provider — Claude, GPT, Gemini. Use whatever framework you find best for the job. We'll ask about the choice in the walkthrough.
+**For the LLM itself, use whatever's easiest for you to ship with.** A frontier API (Claude, GPT, Gemini) is fine, and a local model via Ollama / llama.cpp is equally fine — don't spend your own money on API credits. We won't penalize you for picking a smaller or local model: **we're grading the architecture around the LLM, not the LLM's raw quality.** A simple, well-instrumented pipeline that gets some answers wrong with a 7B local model tells us more than a 1-shot prompt that gets them right with GPT-5.
+
+Use whatever framework you find best for the job. We'll ask about the choice in the walkthrough.
 
 ---
 
@@ -87,7 +89,7 @@ That's it. No design doc, no screen recording.
 
 ## Hard constraints
 
-- **No fine-tuning.** Use frontier LLMs.
+- **No fine-tuning.** Any LLM is fair game — frontier API or local — as long as you're not training your own.
 - **At least one meaningful tool call** somewhere in the system — not just structured output. Up to you what the tool does.
 - **Owner-facing questions must be in Norwegian.** Internal output can be English.
 - **Aim for ~3 hours.** A focused submission tells us more than a heroic 10h one. We grade overbuilding *down*, not up.
@@ -112,10 +114,6 @@ When you're done, push to a private repo and add `@sanna-hiring` (or whoever we'
 Bring questions for us too — we want this to be a real conversation, not a one-way exam.
 
 ---
-
-## API budget
-
-We'll reimburse up to **$20** in LLM API costs. Save a screenshot of your dashboard.
 
 ## Questions?
 
