@@ -1,0 +1,412 @@
+[
+  {
+    "id": "evt-130",
+    "booking_reference": "ZTL-2026-06-3060",
+    "value_date": "2026-06-11",
+    "amount": -89.0,
+    "counterparty": "Espresso House",
+    "description": "Kaffe",
+    "received_at": "2026-07-01T07:20:32Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-202",
+    "booking_reference": "ZTL-2026-06-3202",
+    "value_date": "2026-06-14",
+    "amount": -4400.0,
+    "counterparty": "Meta Platforms Inc",
+    "description": "Facebook Ads",
+    "received_at": "2026-07-01T07:22:00Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-115",
+    "booking_reference": "ZTL-2026-06-3015",
+    "value_date": "2026-06-17",
+    "amount": -2150.0,
+    "counterparty": "Scandic Hotels",
+    "description": "Hotellovernatting",
+    "received_at": "2026-07-01T06:11:15Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-116",
+    "booking_reference": "ZTL-2026-06-3016",
+    "value_date": "2026-06-18",
+    "amount": -9840.0,
+    "counterparty": "Google Ads",
+    "description": "Annonsering",
+    "received_at": "2026-07-01T06:11:16Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-111",
+    "booking_reference": "ZTL-2026-06-3011",
+    "value_date": "2026-06-15",
+    "amount": -38500.0,
+    "counterparty": "OLA NORDMANN",
+    "description": "Lønn juni",
+    "received_at": "2026-07-01T06:11:11Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-110",
+    "booking_reference": "ZTL-2026-06-3010",
+    "value_date": "2026-06-15",
+    "amount": -42000.0,
+    "counterparty": "KARI NORDMANN",
+    "description": "Lønn juni",
+    "received_at": "2026-07-01T06:11:10Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-112",
+    "booking_reference": "ZTL-2026-06-3012",
+    "value_date": "2026-06-16",
+    "amount": -15400.0,
+    "counterparty": "Skatteetaten",
+    "description": "Forskuddstrekk juni",
+    "received_at": "2026-07-01T06:11:12Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-117",
+    "booking_reference": "ZTL-2026-06-3017",
+    "value_date": "2026-06-20",
+    "amount": 58300.0,
+    "counterparty": "Schibsted ASA",
+    "description": "Faktura 24130",
+    "received_at": "2026-07-01T06:11:17Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-201",
+    "booking_reference": "ZTL-2026-06-3201",
+    "value_date": "2026-06-06",
+    "amount": -680.0,
+    "counterparty": "Vy Tog AS",
+    "description": "Togbillett",
+    "received_at": "2026-07-01T07:22:00Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-141",
+    "booking_reference": "ZTL-2026-06-3071",
+    "value_date": "2026-07-15",
+    "amount": -22000.0,
+    "counterparty": "Advokatfirma Selmer",
+    "description": "Advokattjenester — forhåndsdebitering",
+    "received_at": "2026-07-01T07:21:00Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-107",
+    "booking_reference": "ZTL-2026-06-3007",
+    "value_date": "2026-06-09",
+    "amount": -1240.5,
+    "counterparty": "Amazon Web Services",
+    "description": "AWS",
+    "received_at": "2026-07-01T06:11:07Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-150-ref",
+    "booking_reference": "ZTL-2026-06-3080",
+    "value_date": "2026-06-26",
+    "amount": 2500.0,
+    "counterparty": "SAS",
+    "description": "Reversering 3080",
+    "received_at": "2026-07-01T07:21:12Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-150-corr",
+    "booking_reference": "ZTL-2026-06-3081",
+    "value_date": "2026-06-26",
+    "amount": -2100.0,
+    "counterparty": "SAS",
+    "description": "Flyreise — refundering",
+    "received_at": "2026-07-01T07:21:10Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-109",
+    "booking_reference": "ZTL-2026-06-3009",
+    "value_date": "2026-06-12",
+    "amount": -684.0,
+    "counterparty": "Olivia Restaurant",
+    "description": "Kundemiddag",
+    "received_at": "2026-07-01T06:11:09Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-101",
+    "booking_reference": "ZTL-2026-06-3001",
+    "value_date": "2026-06-02",
+    "amount": -749.0,
+    "counterparty": "Telenor Norge AS",
+    "description": "Mobilabonnement",
+    "received_at": "2026-07-01T06:11:00Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-208",
+    "booking_reference": "ZTL-2026-06-3208",
+    "value_date": "2026-06-05",
+    "amount": 19800.0,
+    "counterparty": "Norconsult AS",
+    "description": "Faktura 24115",
+    "received_at": "2026-07-01T07:22:00Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-120",
+    "booking_reference": "ZTL-2026-06-3020",
+    "value_date": "2026-06-25",
+    "amount": -22990.0,
+    "counterparty": "Elkjøp",
+    "description": "Skjerm + dock",
+    "received_at": "2026-07-01T06:11:20Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-113",
+    "booking_reference": "ZTL-2026-06-3013",
+    "value_date": "2026-06-16",
+    "amount": -11200.0,
+    "counterparty": "Skatteetaten",
+    "description": "Arbeidsgiveravgift juni",
+    "received_at": "2026-07-01T06:11:13Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-008-fix",
+    "booking_reference": "ZTL-2026-05-1008",
+    "value_date": "2026-05-30",
+    "amount": -2400.0,
+    "counterparty": "PWC NORGE",
+    "description": "Konsulent — Q2 review",
+    "received_at": "2026-07-01T07:20:01Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-207",
+    "booking_reference": "ZTL-2026-06-3207",
+    "value_date": "2026-06-19",
+    "amount": -1320.0,
+    "counterparty": "Tibber AS",
+    "description": "Strøm Tibber",
+    "received_at": "2026-07-01T07:22:00Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-131",
+    "booking_reference": "ZTL-2026-06-3061",
+    "value_date": "2026-06-11",
+    "amount": -89.0,
+    "counterparty": "Espresso House",
+    "description": "Kaffe",
+    "received_at": "2026-07-01T07:20:33Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-007-rev",
+    "booking_reference": "ZTL-2026-05-1007",
+    "value_date": "2026-06-08",
+    "amount": 8900.0,
+    "counterparty": "Nordic Facade Solutions AS",
+    "description": "Reversering ref 1109",
+    "received_at": "2026-07-01T07:20:30Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-101-rs",
+    "booking_reference": "ZTL-2026-06-3001",
+    "value_date": "2026-06-02",
+    "amount": -749.0,
+    "counterparty": "Telenor Norge AS",
+    "description": "Mobilabonnement",
+    "received_at": "2026-07-02T06:11:00Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-150-orig",
+    "booking_reference": "ZTL-2026-06-3080",
+    "value_date": "2026-06-26",
+    "amount": -2500.0,
+    "counterparty": "SAS",
+    "description": "Flyreise Trondheim",
+    "received_at": "2026-07-01T07:21:11Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-206",
+    "booking_reference": "ZTL-2026-06-3206",
+    "value_date": "2026-06-28",
+    "amount": -89.0,
+    "counterparty": "DNB Bank",
+    "description": "Månedsgebyr",
+    "received_at": "2026-07-01T07:22:00Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-119",
+    "booking_reference": "ZTL-2026-06-3019",
+    "value_date": "2026-06-24",
+    "amount": -340.0,
+    "counterparty": "Bolt / Uber",
+    "description": "Taxi",
+    "received_at": "2026-07-01T06:11:19Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-102",
+    "booking_reference": "ZTL-2026-06-3002",
+    "value_date": "2026-06-03",
+    "amount": -1932.4,
+    "counterparty": "Fjordkraft AS",
+    "description": "Strøm juni",
+    "received_at": "2026-07-01T06:11:02Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-204",
+    "booking_reference": "ZTL-2026-06-3204",
+    "value_date": "2026-06-03",
+    "amount": -540.0,
+    "counterparty": "Clas Ohlson",
+    "description": "Kontor",
+    "received_at": "2026-07-01T07:22:00Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-118",
+    "booking_reference": "ZTL-2026-06-3018",
+    "value_date": "2026-06-22",
+    "amount": -2400.0,
+    "counterparty": "Storebrand Forsikring",
+    "description": "Bedriftsforsikring",
+    "received_at": "2026-07-01T06:11:18Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-203",
+    "booking_reference": "ZTL-2026-06-3203",
+    "value_date": "2026-06-22",
+    "amount": -6200.0,
+    "counterparty": "LinkedIn Corporation",
+    "description": "LinkedIn Ads",
+    "received_at": "2026-07-01T07:22:00Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-108",
+    "booking_reference": "ZTL-2026-06-3008",
+    "value_date": "2026-06-10",
+    "amount": 28000.0,
+    "counterparty": "Sparebank 1 SR-Bank",
+    "description": "Faktura 24112",
+    "received_at": "2026-07-01T06:11:08Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-105",
+    "booking_reference": "ZTL-2026-06-3005",
+    "value_date": "2026-06-05",
+    "amount": -180.0,
+    "counterparty": "Figma Inc",
+    "description": "Figma Pro",
+    "received_at": "2026-07-01T06:11:05Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-105-bad",
+    "booking_reference": "ZTL-2026-06-3005",
+    "value_date": "2026-06-05",
+    "amount": -18000.0,
+    "counterparty": "Figma Inc",
+    "description": "Figma Pro",
+    "received_at": "2026-07-01T07:20:40Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-140",
+    "booking_reference": "ZTL-2026-06-3070",
+    "value_date": "2026-06-13",
+    "amount": -450.0,
+    "counterparty": null,
+    "description": "REF UNRESOLVED",
+    "received_at": "2026-07-01T07:20:50Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-106",
+    "booking_reference": "ZTL-2026-06-3006",
+    "value_date": "2026-06-07",
+    "amount": -18500.0,
+    "counterparty": "Bjørvika Eiendom AS",
+    "description": "Husleie juni",
+    "received_at": "2026-07-01T06:11:06Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-103",
+    "booking_reference": "ZTL-2026-06-3003",
+    "value_date": "2026-06-04",
+    "amount": -440.0,
+    "counterparty": "GitHub Inc",
+    "description": "GitHub Team",
+    "received_at": "2026-07-01T06:11:03Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-114",
+    "booking_reference": "ZTL-2026-06-3014",
+    "value_date": "2026-06-17",
+    "amount": -3490.0,
+    "counterparty": "SAS",
+    "description": "Flyreise Bergen",
+    "received_at": "2026-07-01T06:11:14Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-200",
+    "booking_reference": "ZTL-2026-06-3200",
+    "value_date": "2026-06-12",
+    "amount": -3490.0,
+    "counterparty": "Power AS",
+    "description": "Datautstyr",
+    "received_at": "2026-07-01T07:22:00Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-104",
+    "booking_reference": "ZTL-2026-06-3004",
+    "value_date": "2026-06-04",
+    "amount": -820.0,
+    "counterparty": "Slack Technologies",
+    "description": "Subscription",
+    "received_at": "2026-07-01T06:11:04Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-205",
+    "booking_reference": "ZTL-2026-06-3205",
+    "value_date": "2026-06-04",
+    "amount": -890.0,
+    "counterparty": "Kolonial.no",
+    "description": "Kontorrekvisita",
+    "received_at": "2026-07-01T07:22:00Z",
+    "currency": "NOK"
+  },
+  {
+    "id": "evt-007-corr",
+    "booking_reference": "ZTL-2026-06-3050",
+    "value_date": "2026-06-08",
+    "amount": -8420.0,
+    "counterparty": "Nordic Facade Solutions AS",
+    "description": "Faktura 1109 korrigert",
+    "received_at": "2026-07-01T07:20:31Z",
+    "currency": "NOK"
+  }
+]

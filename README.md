@@ -12,6 +12,7 @@ Each role has its own folder containing:
 | Folder | Role | Time budget |
 |---|---|---|
 | [`ai-engineer/`](./ai-engineer) | AI Engineer | ~3 hours + 45–60 min walkthrough |
+| [`software-engineer/`](./software-engineer) | Software Engineer (domain layer) | ~3 hours + 45–60 min walkthrough |
 
 ## How to give a take-home
 

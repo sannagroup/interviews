@@ -1,0 +1,152 @@
+[
+  {
+    "id": "evt-009",
+    "booking_reference": "ZTL-2026-04-2001",
+    "value_date": "2026-04-02",
+    "amount": -749.0,
+    "currency": "NOK",
+    "counterparty": "Telenor Norge AS",
+    "description": "Mobilabonnement",
+    "ingested_at": "2026-04-03T06:12:01Z"
+  },
+  {
+    "id": "evt-010",
+    "booking_reference": "ZTL-2026-04-2002",
+    "value_date": "2026-04-03",
+    "amount": -1850.0,
+    "currency": "NOK",
+    "counterparty": "Fjordkraft AS",
+    "description": "Strøm april",
+    "ingested_at": "2026-04-04T06:12:33Z"
+  },
+  {
+    "id": "evt-011",
+    "booking_reference": "ZTL-2026-04-2004",
+    "value_date": "2026-04-10",
+    "amount": -440.0,
+    "currency": "NOK",
+    "counterparty": "GitHub Inc",
+    "description": "GitHub Team",
+    "ingested_at": "2026-04-11T06:12:11Z"
+  },
+  {
+    "id": "evt-012",
+    "booking_reference": "ZTL-2026-04-2005",
+    "value_date": "2026-04-15",
+    "amount": -18500.0,
+    "currency": "NOK",
+    "counterparty": "Bjørvika Eiendom AS",
+    "description": "Husleie april",
+    "ingested_at": "2026-04-16T06:12:54Z"
+  },
+  {
+    "id": "evt-013",
+    "booking_reference": "ZTL-2026-04-2006",
+    "value_date": "2026-04-22",
+    "amount": -42000.0,
+    "currency": "NOK",
+    "counterparty": "KARI NORDMANN",
+    "description": "Lønn april",
+    "ingested_at": "2026-04-23T06:14:02Z"
+  },
+  {
+    "id": "evt-014",
+    "booking_reference": "ZTL-2026-04-2007",
+    "value_date": "2026-04-25",
+    "amount": -820.0,
+    "currency": "NOK",
+    "counterparty": "Slack Technologies",
+    "description": "Subscription",
+    "ingested_at": "2026-04-26T06:18:00Z"
+  },
+  {
+    "id": "evt-015",
+    "booking_reference": "ZTL-2026-04-2008",
+    "value_date": "2026-04-27",
+    "amount": 41200.0,
+    "currency": "NOK",
+    "counterparty": "Bouvet Norge AS",
+    "description": "Faktura 23788",
+    "ingested_at": "2026-04-28T06:18:09Z"
+  },
+  {
+    "id": "evt-001",
+    "booking_reference": "ZTL-2026-05-1001",
+    "value_date": "2026-05-02",
+    "amount": -749.0,
+    "currency": "NOK",
+    "counterparty": "Telenor Norge AS",
+    "description": "Mobilabonnement",
+    "ingested_at": "2026-05-03T06:12:01Z"
+  },
+  {
+    "id": "evt-002",
+    "booking_reference": "ZTL-2026-05-1002",
+    "value_date": "2026-05-03",
+    "amount": -1850.0,
+    "currency": "NOK",
+    "counterparty": "Fjordkraft AS",
+    "description": "Strøm mai",
+    "ingested_at": "2026-05-04T06:12:33Z"
+  },
+  {
+    "id": "evt-003",
+    "booking_reference": "ZTL-2026-05-1003",
+    "value_date": "2026-05-05",
+    "amount": 62400.0,
+    "currency": "NOK",
+    "counterparty": "Equinor ASA",
+    "description": "Faktura 24011",
+    "ingested_at": "2026-05-06T06:18:09Z"
+  },
+  {
+    "id": "evt-004",
+    "booking_reference": "ZTL-2026-05-1004",
+    "value_date": "2026-05-10",
+    "amount": -440.0,
+    "currency": "NOK",
+    "counterparty": "GitHub Inc",
+    "description": "GitHub Team",
+    "ingested_at": "2026-05-11T06:12:11Z"
+  },
+  {
+    "id": "evt-005",
+    "booking_reference": "ZTL-2026-05-1005",
+    "value_date": "2026-05-15",
+    "amount": -18500.0,
+    "currency": "NOK",
+    "counterparty": "Bjørvika Eiendom AS",
+    "description": "Husleie mai",
+    "ingested_at": "2026-05-16T06:12:54Z"
+  },
+  {
+    "id": "evt-006",
+    "booking_reference": "ZTL-2026-05-1006",
+    "value_date": "2026-05-22",
+    "amount": -42000.0,
+    "currency": "NOK",
+    "counterparty": "KARI NORDMANN",
+    "description": "Lønn mai",
+    "ingested_at": "2026-05-23T06:14:02Z"
+  },
+  {
+    "id": "evt-007",
+    "booking_reference": "ZTL-2026-05-1007",
+    "value_date": "2026-05-28",
+    "amount": -8900.0,
+    "currency": "NOK",
+    "counterparty": "Nordic Facade Solutions AS",
+    "description": "Faktura 1109",
+    "ingested_at": "2026-05-29T06:12:00Z"
+  },
+  {
+    "id": "evt-008",
+    "booking_reference": "ZTL-2026-05-1008",
+    "value_date": "2026-05-30",
+    "amount": -2400.0,
+    "currency": "NOK",
+    "counterparty": "PWC NORGE",
+    "description": "REF #XX91-PNDG",
+    "ingested_at": "2026-05-31T06:12:42Z"
+  }
+]

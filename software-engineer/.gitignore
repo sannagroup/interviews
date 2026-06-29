@@ -1,0 +1,13 @@
+# Candidate solution artifacts
+node_modules/
+.env
+.env.local
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+dist/
+build/
+coverage/
+*.sqlite
+*.db
