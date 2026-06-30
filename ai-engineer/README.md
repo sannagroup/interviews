@@ -80,7 +80,7 @@ Out of scope — don't build:
 
 ## What happens next
 
-When you're done, push to a private repo and add `@sanna-hiring` (or whoever you've been told). Expect a confirmation within one business day, then a scheduled walkthrough. In that call, you'll:
+When you're done, push to a private repo and send the link to your hiring contact, who will let you know which GitHub user to add as a collaborator. (Sending a zip is also fine if you'd rather.) Expect a confirmation within one business day, then a scheduled walkthrough. In that call, you'll:
 
 - Show the system end-to-end, including how you measured it.
 - Walk through your architecture choices and what you learned along the way.
